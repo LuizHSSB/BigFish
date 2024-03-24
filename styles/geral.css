@@ -51,7 +51,7 @@ main{
     width: 35%;
     height: 100%;
     display: flex;
-    background-image: url(/img/logo_02.png);
+    background-image: url(/img/logo1.png);
     background-repeat: repeat;
     background-size: 100% 100%;
 }
@@ -60,7 +60,7 @@ main{
     width: 65%;
     height: 100%;
     display: flex;
-    background-image: url(/img/logo_03.gif);
+    background-image: url(/img/logo2.gif);
     background-repeat: repeat;
     background-size: 100% 100%;
 }
